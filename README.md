@@ -2,7 +2,7 @@
 
 
 
-<h2>Emotions Recognition ( Happiness, Neutral, Sadness) from camera feed using neural Networks </h2>
+<h2>Emotions Recognition ( Happiness, Neutral, Sadness) from camera feed using Neural Networks </h2>
 
 Algorithm Multi Layer Perceptron from Scikit-Learn's neural_network module is used. The dataset consists of images taken from the Cohn-Kanade Dataset [Refernce Below] 
 
@@ -22,7 +22,7 @@ Dataset <br>
 
 2)<b> To train the model</b>
 
-  Run the Main File and type command 'train model'. This will start the nprocess to train model and save the pickle file of the model
+  Run the Main File and type command 'train model'. This will start the process to train model and save the pickle file of the model
 
 3)<b>To run</b>
 
