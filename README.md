@@ -10,10 +10,10 @@ Algorithm Multi Layer Perceptron from Scikit-Learn's neural_network module is us
 
 1) <b>To use new Images/data </b>
 
-  Create a folder named Dataset. Create three sub folders named happy, Neutral,  Sadness.
-  Put the images in three different folders named as Happy Neutral and angry inside the Dataset folder.
+  Create a folder named Datasets. Create three sub folders named happy, Neutral,  Sadness.
+  Put the images in three different folders named as Happy Neutral and angry inside the Datasets folder.
 
-Dataset <br>
+Datasets <br>
   ./ Angry <br>
   ./ Neutral <br>
   ./ Angry <bre>
