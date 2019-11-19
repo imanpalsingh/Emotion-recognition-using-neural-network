@@ -11,10 +11,10 @@ Algorithm Multi Layer Perceptron from Scikit-Learn's neural_network module is us
 1) To use new Images/data
 Put the images in three different folders named as Happy Neutral and angry inside the Dataset folder.
 
-Dataset
-./ Angry
-./ Neutral
-./ Angry
+Dataset <br>
+./ Angry <br>
+./ Neutral <br>
+./ Angry <bre>
 
 Run the Main File and type command 'load data'. This will load, preprocess and store the data as in csv format (pixel values scaled).
 
