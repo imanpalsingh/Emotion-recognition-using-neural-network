@@ -9,6 +9,7 @@ Algorithm Multi Layer Perceptron from Scikit-Learn's neural_network module is us
 <h3> Procedure </h3>
 
 1) To use new Images/data
+Create a folder named Dataset. Create three sub folders named happy, Neutral,  Sadness.
 Put the images in three different folders named as Happy Neutral and angry inside the Dataset folder.
 
 Dataset <br>
@@ -27,9 +28,7 @@ Run the Main File and type command 'train model'. This will start the nprocess t
 Run the Main File and type 'run'. This will initiate the process of taking a webcam feed.
 To predict, press 's' when ready. The algorithm will try to find a face for next 100 frames. When found it will extract it , preprocess it and predict the emotion.
 
-
-
-
+4) To see list of available commands type 'help'
 
 
 
