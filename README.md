@@ -4,7 +4,7 @@
 
 <h2>Emotions Recognition ( Happiness, Neutral, Sadness) from camera feed using Neural Networks </h2>
 
-Algorithm Multi Layer Perceptron from Scikit-Learn's neural_network module is used. The dataset consists of images taken from the Cohn-Kanade Dataset [Refernce Below] 
+Algorithm Multi Layer Perceptron from Scikit-Learn's neural_network module is used. The dataset consists of images taken from the Cohn-Kanade Dataset [Reference Below] 
 
 <h3> Procedure</h3>
 
