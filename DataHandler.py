@@ -14,7 +14,7 @@
  * Change log :
 
    (0.0.1) : - Dataset: Now using Olevetti Faces Dataset.
-   (0.1.0) : - Dataset : Now using Extended cohen Face Dataset.
+   (0.1.0) : - Dataset : Now using Cohn-Kanade Dataset .
    
  * File Description : - This file loads the data, preprocesses it and saves it into a csv file format
  
