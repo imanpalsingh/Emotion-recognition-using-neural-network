@@ -19,7 +19,7 @@ Dataset <br>
 
   Run the Main File and type command 'load data'. This will load, preprocess and store the data as in csv format (pixel values scaled).
 
-2)<b> To train the model<b/>
+2)<b> To train the model</b>
 
   Run the Main File and type command 'train model'. This will start the nprocess to train model and save the pickle file of the model
 
